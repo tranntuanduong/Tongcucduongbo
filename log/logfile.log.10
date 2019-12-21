@@ -1,0 +1,892 @@
+2019-12-20 16:33:41 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:41 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:41 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:41 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:41 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:41 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:41 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:41 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:42 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:42 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:42 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:42 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:42 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:42 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:42 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:42 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:42 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:42 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:42 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:42 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:42 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:42 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:42 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:42 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:43 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:43 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:43 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:43 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:43 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:43 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:43 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:43 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:43 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:43 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:43 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:43 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:43 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:44 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:44 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:44 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:44 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:44 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:44 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:44 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:44 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:44 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:44 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:44 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:44 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:44 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:44 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:44 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:44 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:45 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:45 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:45 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:45 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:45 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:45 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:45 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:45 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:45 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:45 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:45 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:45 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:45 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:45 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:46 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:46 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:46 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:46 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:46 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:46 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:46 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:46 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:46 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:46 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:46 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:46 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:46 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:46 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:46 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:47 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:47 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:47 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:47 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:47 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:47 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:47 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:47 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:47 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:47 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:47 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:47 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:47 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:48 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:48 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:48 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:48 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:48 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:48 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:48 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:48 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:48 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:48 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:48 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:48 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:48 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:48 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:48 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:49 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:49 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:49 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:49 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:49 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:49 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:49 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:49 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:49 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:49 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:49 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:49 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:49 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:49 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:49 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:50 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:50 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:50 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:50 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:50 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:50 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:50 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:50 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:50 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:50 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:50 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:50 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:50 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:50 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:50 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:50 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:50 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:51 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:51 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:51 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:51 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:51 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:51 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:51 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:51 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:51 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:51 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:51 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:51 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:51 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:51 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:51 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:52 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:52 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:52 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:52 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:52 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:52 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:52 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:52 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:52 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:52 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:52 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:52 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:52 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:52 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:52 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:53 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:53 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:53 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:53 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:53 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:53 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:53 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:53 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:53 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:53 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:53 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:53 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:53 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:53 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:53 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:54 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:54 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:54 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:54 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:54 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:54 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:54 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:54 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:54 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:54 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:54 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:54 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:54 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:54 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:54 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:55 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:55 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:55 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:55 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:55 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:55 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:55 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:55 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:55 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:55 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:55 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:55 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:55 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:55 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:55 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:55 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:55 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:56 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:56 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:56 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:56 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:56 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:56 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:56 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:56 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:56 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:56 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:56 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:56 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:56 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:56 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:57 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:57 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:57 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:57 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:57 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:57 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:57 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:57 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:57 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:57 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:57 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:57 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:57 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:57 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:57 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:58 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:58 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:58 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:58 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:58 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:58 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:58 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:58 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:58 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:58 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:58 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:58 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:58 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:58 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:58 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:58 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:59 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:59 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:59 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:59 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:59 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:59 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:59 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:59 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:59 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:59 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:59 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:33:59 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:00 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:00 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:00 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:00 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:00 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:00 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:00 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:00 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:00 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:00 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:00 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:00 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:00 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:00 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:00 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:00 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:01 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:01 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:01 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:01 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:01 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:01 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:01 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:01 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:01 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:01 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:01 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:01 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:01 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:01 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:02 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:02 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:02 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:02 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:02 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:02 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:02 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:02 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:02 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:02 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:02 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:02 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:02 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:02 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:03 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:03 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:03 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:03 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:03 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:03 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:03 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:03 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:04 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:04 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:04 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:04 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:05 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:06 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:06 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:06 INFO  ProviderDAOImpl:25 - SELECT * FROM provider WHERE name = ?
+2019-12-20 16:34:09 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:10 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:10 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:10 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:10 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:10 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:11 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:11 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:11 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:11 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:11 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:11 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:11 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:16 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:16 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:18 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:18 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:18 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:18 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:18 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:19 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:20 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:21 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:22 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:22 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:22 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:23 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:23 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:23 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:23 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:24 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:24 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:25 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:25 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:25 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:25 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:25 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:26 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:26 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:26 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:26 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:26 INFO  VehicleExcel:85 - close inputStream and workbook
+2019-12-20 16:34:26 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 16:34:26 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 16:34:27 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 16:34:27 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 16:34:27 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 16:34:27 INFO  VehicleDAOImpl:109 - INSERT 4938 Object Vehicle
+2019-12-20 16:34:28 INFO  ThreadWriteData:79 - reNameTo: Danh sách phương tiện - Binh Duong.xlsx
+2019-12-20 16:34:30 INFO  VehicleExcel:68 - Mo workBook:Danh sách phương tiện - Binh Phuoc.xlsx
+2019-12-20 16:34:30 INFO  VehicleExcel:70 - da mo thanh cong
+2019-12-20 16:34:30 INFO  LocationDAOImpl:18 - SELECT * FROM location WHERE name = ?
+2019-12-20 16:34:37 INFO  VehicleExcel:85 - close inputStream and workbook
+2019-12-20 16:34:37 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 16:34:37 INFO  VehicleDAOImpl:109 - INSERT 1562 Object Vehicle
+2019-12-20 16:34:37 INFO  ThreadWriteData:79 - reNameTo: Danh sách phương tiện - Binh Phuoc.xlsx
+2019-12-20 16:34:39 INFO  VehicleExcel:68 - Mo workBook:Danh sách phương tiện - Binh Thuan.xlsx
+2019-12-20 16:34:40 INFO  VehicleExcel:70 - da mo thanh cong
+2019-12-20 16:34:40 INFO  LocationDAOImpl:18 - SELECT * FROM location WHERE name = ?
+2019-12-20 16:34:41 INFO  ProviderDAOImpl:25 - SELECT * FROM provider WHERE name = ?
+2019-12-20 16:34:41 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:41 INFO  ProviderDAOImpl:25 - SELECT * FROM provider WHERE name = ?
+2019-12-20 16:34:42 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:43 INFO  ProviderDAOImpl:25 - SELECT * FROM provider WHERE name = ?
+2019-12-20 16:34:43 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:43 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:43 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:43 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:44 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:34:45 INFO  VehicleExcel:85 - close inputStream and workbook
+2019-12-20 16:34:45 INFO  VehicleDAOImpl:109 - INSERT 4687 Object Vehicle
+2019-12-20 16:34:45 INFO  ThreadWriteData:79 - reNameTo: Danh sách phương tiện - Binh Thuan.xlsx
+2019-12-20 16:34:47 INFO  VehicleExcel:68 - Mo workBook:Danh sách phương tiện - Ca Mau.xlsx
+2019-12-20 16:34:48 INFO  VehicleExcel:70 - da mo thanh cong
+2019-12-20 16:34:48 INFO  LocationDAOImpl:18 - SELECT * FROM location WHERE name = ?
+2019-12-20 16:34:51 INFO  ProviderDAOImpl:25 - SELECT * FROM provider WHERE name = ?
+2019-12-20 16:34:52 INFO  VehicleExcel:85 - close inputStream and workbook
+2019-12-20 16:34:52 INFO  VehicleDAOImpl:109 - INSERT 3042 Object Vehicle
+2019-12-20 16:34:52 INFO  ThreadWriteData:79 - reNameTo: Danh sách phương tiện - Ca Mau.xlsx
+2019-12-20 16:34:54 INFO  VehicleExcel:68 - Mo workBook:Danh sách phương tiện - Can Tho.xlsx
+2019-12-20 16:34:54 INFO  VehicleExcel:70 - da mo thanh cong
+2019-12-20 16:34:54 INFO  LocationDAOImpl:18 - SELECT * FROM location WHERE name = ?
+2019-12-20 16:34:58 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:35:03 INFO  VehicleExcel:85 - close inputStream and workbook
+2019-12-20 16:35:04 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 16:35:04 INFO  VehicleDAOImpl:109 - INSERT 2070 Object Vehicle
+2019-12-20 16:35:04 INFO  ThreadWriteData:79 - reNameTo: Danh sách phương tiện - Can Tho.xlsx
+2019-12-20 16:35:06 INFO  VehicleExcel:68 - Mo workBook:Danh sách phương tiện - Cao Bang.xlsx
+2019-12-20 16:35:06 INFO  VehicleExcel:70 - da mo thanh cong
+2019-12-20 16:35:06 INFO  LocationDAOImpl:18 - SELECT * FROM location WHERE name = ?
+2019-12-20 16:35:08 INFO  VehicleExcel:85 - close inputStream and workbook
+2019-12-20 16:35:08 INFO  VehicleDAOImpl:109 - INSERT 1316 Object Vehicle
+2019-12-20 16:35:08 INFO  ThreadWriteData:79 - reNameTo: Danh sách phương tiện - Cao Bang.xlsx
+2019-12-20 16:35:10 INFO  VehicleExcel:68 - Mo workBook:Danh sách phương tiện - Da Nang.xlsx
+2019-12-20 16:35:11 INFO  VehicleExcel:70 - da mo thanh cong
+2019-12-20 16:35:11 INFO  LocationDAOImpl:18 - SELECT * FROM location WHERE name = ?
+2019-12-20 16:35:12 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:35:13 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:35:13 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:35:13 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:35:15 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:35:15 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:35:15 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:35:15 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:35:16 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:35:17 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:35:17 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:35:18 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:35:18 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:35:18 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:35:20 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:35:20 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:35:20 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:35:20 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:35:21 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:35:21 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:35:21 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:35:21 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:35:22 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:35:26 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:35:26 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:35:26 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:35:32 INFO  ProviderDAOImpl:25 - SELECT * FROM provider WHERE name = ?
+2019-12-20 16:35:32 INFO  VehicleExcel:85 - close inputStream and workbook
+2019-12-20 16:35:32 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 16:35:33 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 16:35:33 INFO  VehicleDAOImpl:109 - INSERT 4408 Object Vehicle
+2019-12-20 16:35:33 INFO  ThreadWriteData:79 - reNameTo: Danh sách phương tiện - Da Nang.xlsx
+2019-12-20 16:35:35 INFO  VehicleExcel:68 - Mo workBook:Danh sách phương tiện - Dak Lak.xlsx
+2019-12-20 16:35:36 INFO  VehicleExcel:70 - da mo thanh cong
+2019-12-20 16:35:36 INFO  LocationDAOImpl:18 - SELECT * FROM location WHERE name = ?
+2019-12-20 16:35:38 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:35:38 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:35:38 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:36:03 INFO  VehicleExcel:85 - close inputStream and workbook
+2019-12-20 16:36:04 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 16:36:04 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 16:36:04 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 16:36:04 INFO  VehicleDAOImpl:109 - INSERT 1746 Object Vehicle
+2019-12-20 16:36:05 INFO  ThreadWriteData:79 - reNameTo: Danh sách phương tiện - Dak Lak.xlsx
+2019-12-20 16:36:07 INFO  VehicleExcel:68 - Mo workBook:Danh sách phương tiện - Dak Nong.xlsx
+2019-12-20 16:36:07 INFO  VehicleExcel:70 - da mo thanh cong
+2019-12-20 16:36:07 INFO  LocationDAOImpl:18 - SELECT * FROM location WHERE name = ?
+2019-12-20 16:36:07 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:36:08 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:36:12 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:36:13 INFO  VehicleExcel:85 - close inputStream and workbook
+2019-12-20 16:36:13 INFO  VehicleDAOImpl:109 - INSERT 3136 Object Vehicle
+2019-12-20 16:36:14 INFO  ThreadWriteData:79 - reNameTo: Danh sách phương tiện - Dak Nong.xlsx
+2019-12-20 16:36:16 INFO  VehicleExcel:68 - Mo workBook:Danh sách phương tiện - Dien Bien.xlsx
+2019-12-20 16:36:16 INFO  VehicleExcel:70 - da mo thanh cong
+2019-12-20 16:36:16 INFO  LocationDAOImpl:18 - SELECT * FROM location WHERE name = ?
+2019-12-20 16:36:17 INFO  VehicleExcel:85 - close inputStream and workbook
+2019-12-20 16:36:17 INFO  VehicleDAOImpl:109 - INSERT 946 Object Vehicle
+2019-12-20 16:36:18 INFO  ThreadWriteData:79 - reNameTo: Danh sách phương tiện - Dien Bien.xlsx
+2019-12-20 16:36:20 INFO  VehicleExcel:68 - Mo workBook:Danh sách phương tiện - Dong Nai.xlsx
+2019-12-20 16:36:24 INFO  VehicleExcel:70 - da mo thanh cong
+2019-12-20 16:36:24 INFO  LocationDAOImpl:18 - SELECT * FROM location WHERE name = ?
+2019-12-20 16:36:30 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:36:37 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:36:44 INFO  ProviderDAOImpl:25 - SELECT * FROM provider WHERE name = ?
+2019-12-20 16:36:47 INFO  ProviderDAOImpl:25 - SELECT * FROM provider WHERE name = ?
+2019-12-20 16:38:02 INFO  ProviderDAOImpl:25 - SELECT * FROM provider WHERE name = ?
+2019-12-20 16:38:30 INFO  VehicleExcel:85 - close inputStream and workbook
+2019-12-20 16:38:30 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 16:38:31 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 16:38:31 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 16:38:32 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 16:38:32 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 16:38:32 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 16:38:33 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 16:38:33 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 16:38:34 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 16:38:34 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 16:38:34 INFO  VehicleDAOImpl:109 - INSERT 1336 Object Vehicle
+2019-12-20 16:38:35 INFO  ThreadWriteData:79 - reNameTo: Danh sách phương tiện - Dong Nai.xlsx
+2019-12-20 16:38:37 INFO  VehicleExcel:68 - Mo workBook:Danh sách phương tiện - Gia Lai.xlsx
+2019-12-20 16:38:37 INFO  VehicleExcel:70 - da mo thanh cong
+2019-12-20 16:38:37 INFO  LocationDAOImpl:18 - SELECT * FROM location WHERE name = ?
+2019-12-20 16:38:40 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:38:40 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:38:41 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:38:45 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:38:49 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:38:49 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:38:49 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:38:50 INFO  VehicleExcel:85 - close inputStream and workbook
+2019-12-20 16:38:50 INFO  VehicleDAOImpl:109 - INSERT 3304 Object Vehicle
+2019-12-20 16:38:50 INFO  ThreadWriteData:79 - reNameTo: Danh sách phương tiện - Gia Lai.xlsx
+2019-12-20 16:38:52 INFO  VehicleExcel:68 - Mo workBook:Danh sách phương tiện - Ha Giang.xlsx
+2019-12-20 16:38:52 INFO  VehicleExcel:70 - da mo thanh cong
+2019-12-20 16:38:52 INFO  LocationDAOImpl:18 - SELECT * FROM location WHERE name = ?
+2019-12-20 16:38:52 INFO  ProviderDAOImpl:25 - SELECT * FROM provider WHERE name = ?
+2019-12-20 16:38:54 INFO  VehicleExcel:85 - close inputStream and workbook
+2019-12-20 16:38:54 INFO  VehicleDAOImpl:109 - INSERT 670 Object Vehicle
+2019-12-20 16:38:54 INFO  ThreadWriteData:79 - reNameTo: Danh sách phương tiện - Ha Giang.xlsx
+2019-12-20 16:38:56 INFO  VehicleExcel:68 - Mo workBook:Danh sách phương tiện - Ha Nam.xlsx
+2019-12-20 16:38:56 INFO  VehicleExcel:70 - da mo thanh cong
+2019-12-20 16:38:56 INFO  LocationDAOImpl:18 - SELECT * FROM location WHERE name = ?
+2019-12-20 16:38:57 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:38:58 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:39:02 INFO  ProviderDAOImpl:25 - SELECT * FROM provider WHERE name = ?
+2019-12-20 16:39:04 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:39:05 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:39:05 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:39:06 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:39:06 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:39:07 INFO  VehicleExcel:85 - close inputStream and workbook
+2019-12-20 16:39:07 INFO  VehicleDAOImpl:109 - INSERT 4487 Object Vehicle
+2019-12-20 16:39:07 INFO  ThreadWriteData:79 - reNameTo: Danh sách phương tiện - Ha Nam.xlsx
+2019-12-20 16:39:09 INFO  VehicleExcel:68 - Mo workBook:Danh sách phương tiện - Ha Tinh.xlsx
+2019-12-20 16:39:09 INFO  VehicleExcel:70 - da mo thanh cong
+2019-12-20 16:39:09 INFO  LocationDAOImpl:18 - SELECT * FROM location WHERE name = ?
+2019-12-20 16:39:12 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:39:14 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:39:14 INFO  VehicleExcel:85 - close inputStream and workbook
+2019-12-20 16:39:14 INFO  VehicleDAOImpl:109 - INSERT 2187 Object Vehicle
+2019-12-20 16:39:14 INFO  ThreadWriteData:79 - reNameTo: Danh sách phương tiện - Ha Tinh.xlsx
+2019-12-20 16:39:16 INFO  VehicleExcel:68 - Mo workBook:Danh sách phương tiện - Hai Duong.xlsx
+2019-12-20 16:39:17 INFO  VehicleExcel:70 - da mo thanh cong
+2019-12-20 16:39:17 INFO  LocationDAOImpl:18 - SELECT * FROM location WHERE name = ?
+2019-12-20 16:39:23 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:39:33 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:39:35 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:39:38 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:39:50 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:39:51 INFO  VehicleExcel:85 - close inputStream and workbook
+2019-12-20 16:39:52 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 16:39:52 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 16:39:52 INFO  VehicleDAOImpl:109 - INSERT 3873 Object Vehicle
+2019-12-20 16:39:53 INFO  ThreadWriteData:79 - reNameTo: Danh sách phương tiện - Hai Duong.xlsx
+2019-12-20 16:39:55 INFO  VehicleExcel:68 - Mo workBook:Danh sách phương tiện - Hai Phong.xlsx
+2019-12-20 16:39:57 INFO  VehicleExcel:70 - da mo thanh cong
+2019-12-20 16:39:58 INFO  LocationDAOImpl:18 - SELECT * FROM location WHERE name = ?
+2019-12-20 16:39:59 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:40:00 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:40:00 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:40:00 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:40:00 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:40:06 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:40:23 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:40:25 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:40:26 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:40:26 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:40:26 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:40:27 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:40:29 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:40:33 INFO  ProviderDAOImpl:25 - SELECT * FROM provider WHERE name = ?
+2019-12-20 16:40:35 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:40:51 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:40:58 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:40:58 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:40:59 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:40:59 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:40:59 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:41:00 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:41:00 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:41:00 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:41:00 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:41:00 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:41:01 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:41:02 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:41:04 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:41:04 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:41:05 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:41:05 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:41:07 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:41:07 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:41:08 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:41:08 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:41:08 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:41:11 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:41:12 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:41:13 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:41:13 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:41:14 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:41:14 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:41:15 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:41:15 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:41:16 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:41:16 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:41:16 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:41:16 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:41:17 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:41:17 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:41:17 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:41:18 INFO  VehicleExcel:85 - close inputStream and workbook
+2019-12-20 16:41:19 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 16:41:19 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 16:41:20 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 16:41:21 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 16:41:22 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 16:41:22 INFO  VehicleDAOImpl:109 - INSERT 755 Object Vehicle
+2019-12-20 16:41:22 INFO  ThreadWriteData:79 - reNameTo: Danh sách phương tiện - Hai Phong.xlsx
+2019-12-20 16:41:24 INFO  VehicleExcel:68 - Mo workBook:Danh sách phương tiện - Hau Giang.xlsx
+2019-12-20 16:41:24 INFO  VehicleExcel:70 - da mo thanh cong
+2019-12-20 16:41:24 INFO  LocationDAOImpl:18 - SELECT * FROM location WHERE name = ?
+2019-12-20 16:41:25 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:41:26 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:41:37 INFO  VehicleExcel:85 - close inputStream and workbook
+2019-12-20 16:41:37 INFO  VehicleDAOImpl:109 - INSERT 3490 Object Vehicle
+2019-12-20 16:41:37 INFO  ThreadWriteData:79 - reNameTo: Danh sách phương tiện - Hau Giang.xlsx
+2019-12-20 16:41:39 INFO  VehicleExcel:68 - Mo workBook:Danh sách phương tiện - Ho CHi Minh.xlsx
+2019-12-20 16:42:16 INFO  VehicleExcel:70 - da mo thanh cong
+2019-12-20 16:42:16 INFO  LocationDAOImpl:18 - SELECT * FROM location WHERE name = ?
+2019-12-20 16:42:20 INFO  ProviderDAOImpl:25 - SELECT * FROM provider WHERE name = ?
+2019-12-20 16:42:23 INFO  ProviderDAOImpl:25 - SELECT * FROM provider WHERE name = ?
+2019-12-20 16:42:26 INFO  ProviderDAOImpl:25 - SELECT * FROM provider WHERE name = ?
+2019-12-20 16:42:29 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:42:35 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:42:43 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:43:09 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:43:18 INFO  ProviderDAOImpl:25 - SELECT * FROM provider WHERE name = ?
+2019-12-20 16:43:27 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:43:27 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:43:28 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:43:41 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:43:52 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:43:52 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:43:52 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:43:52 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:44:00 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:44:09 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:44:16 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:44:19 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:44:20 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:44:30 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:44:43 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:44:53 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:44:55 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:44:58 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:45:00 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:45:02 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:45:02 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:45:31 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:45:43 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:45:45 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:45:46 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:45:47 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:45:47 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:45:47 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:45:50 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:45:50 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:46:04 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:46:05 INFO  ProviderDAOImpl:25 - SELECT * FROM provider WHERE name = ?
+2019-12-20 16:46:39 INFO  ProviderDAOImpl:25 - SELECT * FROM provider WHERE name = ?
+2019-12-20 16:47:22 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:51:40 INFO  ProviderDAOImpl:25 - SELECT * FROM provider WHERE name = ?
+2019-12-20 16:52:45 INFO  ProviderDAOImpl:25 - SELECT * FROM provider WHERE name = ?
+2019-12-20 16:54:16 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:55:19 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:55:29 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:58:50 INFO  VehicleExcel:85 - close inputStream and workbook
+2019-12-20 16:58:51 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 16:58:52 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 16:58:52 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 16:58:53 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 16:58:53 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 16:58:53 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 16:58:53 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 16:58:54 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 16:58:54 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 16:58:54 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 16:58:55 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 16:58:55 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 16:58:55 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 16:58:56 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 16:58:56 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 16:58:56 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 16:58:57 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 16:58:57 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 16:58:57 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 16:58:58 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 16:58:58 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 16:58:58 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 16:58:58 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 16:58:59 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 16:58:59 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 16:58:59 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 16:59:00 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 16:59:00 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 16:59:00 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 16:59:01 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 16:59:01 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 16:59:01 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 16:59:02 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 16:59:02 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 16:59:02 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 16:59:03 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 16:59:03 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 16:59:03 INFO  VehicleDAOImpl:109 - INSERT 4613 Object Vehicle
+2019-12-20 16:59:03 INFO  ThreadWriteData:79 - reNameTo: Danh sách phương tiện - Ho CHi Minh.xlsx
+2019-12-20 16:59:05 INFO  VehicleExcel:68 - Mo workBook:Danh sách phương tiện - Hoa Binh.xlsx
+2019-12-20 16:59:06 INFO  VehicleExcel:70 - da mo thanh cong
+2019-12-20 16:59:06 INFO  LocationDAOImpl:18 - SELECT * FROM location WHERE name = ?
+2019-12-20 16:59:16 INFO  ProviderDAOImpl:25 - SELECT * FROM provider WHERE name = ?
+2019-12-20 16:59:18 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:59:18 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:59:18 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:59:19 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 16:59:20 INFO  VehicleExcel:85 - close inputStream and workbook
+2019-12-20 16:59:20 INFO  VehicleDAOImpl:109 - INSERT 2807 Object Vehicle
+2019-12-20 16:59:21 INFO  ThreadWriteData:79 - reNameTo: Danh sách phương tiện - Hoa Binh.xlsx
+2019-12-20 16:59:23 INFO  VehicleExcel:68 - Mo workBook:Danh sách phương tiện - Hung Yen.xlsx
+2019-12-20 16:59:23 INFO  VehicleExcel:70 - da mo thanh cong
+2019-12-20 16:59:23 INFO  LocationDAOImpl:18 - SELECT * FROM location WHERE name = ?
+2019-12-20 17:00:16 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 17:00:17 INFO  VehicleExcel:85 - close inputStream and workbook
+2019-12-20 17:00:17 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 17:00:18 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 17:00:18 INFO  VehicleDAOImpl:109 - INSERT 227 Object Vehicle
+2019-12-20 17:00:18 INFO  ThreadWriteData:79 - reNameTo: Danh sách phương tiện - Hung Yen.xlsx
+2019-12-20 17:00:20 INFO  VehicleExcel:68 - Mo workBook:Danh sách phương tiện - Khanh Hoa.xlsx
+2019-12-20 17:00:20 INFO  VehicleExcel:70 - da mo thanh cong
+2019-12-20 17:00:20 INFO  LocationDAOImpl:18 - SELECT * FROM location WHERE name = ?
+2019-12-20 17:00:30 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 17:00:34 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 17:00:39 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 17:00:59 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 17:01:03 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 17:01:05 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 17:01:09 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 17:01:10 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 17:01:12 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 17:01:19 INFO  VehicleExcel:85 - close inputStream and workbook
+2019-12-20 17:01:19 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 17:01:20 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 17:01:20 INFO  VehicleDAOImpl:109 - INSERT 708 Object Vehicle
+2019-12-20 17:01:20 INFO  ThreadWriteData:79 - reNameTo: Danh sách phương tiện - Khanh Hoa.xlsx
+2019-12-20 17:01:22 INFO  VehicleExcel:68 - Mo workBook:Danh sách phương tiện - Kien Giang.xlsx
+2019-12-20 17:01:22 INFO  VehicleExcel:70 - da mo thanh cong
+2019-12-20 17:01:22 INFO  LocationDAOImpl:18 - SELECT * FROM location WHERE name = ?
+2019-12-20 17:02:10 INFO  VehicleExcel:85 - close inputStream and workbook
+2019-12-20 17:02:10 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 17:02:10 INFO  VehicleDAOImpl:109 - INSERT 3020 Object Vehicle
+2019-12-20 17:02:10 INFO  ThreadWriteData:79 - reNameTo: Danh sách phương tiện - Kien Giang.xlsx
+2019-12-20 17:02:13 INFO  VehicleExcel:68 - Mo workBook:Danh sách phương tiện - Kon Tum.xlsx
+2019-12-20 17:02:13 INFO  VehicleExcel:70 - da mo thanh cong
+2019-12-20 17:02:13 INFO  LocationDAOImpl:18 - SELECT * FROM location WHERE name = ?
+2019-12-20 17:02:19 INFO  VehicleExcel:85 - close inputStream and workbook
+2019-12-20 17:02:19 INFO  VehicleDAOImpl:109 - INSERT 1187 Object Vehicle
+2019-12-20 17:02:19 INFO  ThreadWriteData:79 - reNameTo: Danh sách phương tiện - Kon Tum.xlsx
+2019-12-20 17:02:21 INFO  VehicleExcel:68 - Mo workBook:Danh sách phương tiện - Lai Chau.xlsx
+2019-12-20 17:02:21 INFO  VehicleExcel:70 - da mo thanh cong
+2019-12-20 17:02:21 INFO  LocationDAOImpl:18 - SELECT * FROM location WHERE name = ?
+2019-12-20 17:02:24 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 17:02:25 INFO  VehicleExcel:85 - close inputStream and workbook
+2019-12-20 17:02:25 INFO  VehicleDAOImpl:109 - INSERT 586 Object Vehicle
+2019-12-20 17:02:25 INFO  ThreadWriteData:79 - reNameTo: Danh sách phương tiện - Lai Chau.xlsx
+2019-12-20 17:02:27 INFO  VehicleExcel:68 - Mo workBook:Danh sách phương tiện - Lam Dong.xlsx
+2019-12-20 17:02:27 INFO  VehicleExcel:70 - da mo thanh cong
+2019-12-20 17:02:27 INFO  LocationDAOImpl:18 - SELECT * FROM location WHERE name = ?
+2019-12-20 17:02:57 INFO  VehicleExcel:85 - close inputStream and workbook
+2019-12-20 17:02:58 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 17:02:58 INFO  VehicleDAOImpl:109 - INSERT 397 Object Vehicle
+2019-12-20 17:02:58 INFO  ThreadWriteData:79 - reNameTo: Danh sách phương tiện - Lam Dong.xlsx
+2019-12-20 17:03:00 INFO  VehicleExcel:68 - Mo workBook:Danh sách phương tiện - Lang Son.xlsx
+2019-12-20 17:03:00 INFO  VehicleExcel:70 - da mo thanh cong
+2019-12-20 17:03:00 INFO  LocationDAOImpl:18 - SELECT * FROM location WHERE name = ?
+2019-12-20 17:03:02 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 17:03:07 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 17:03:10 INFO  VehicleExcel:85 - close inputStream and workbook
+2019-12-20 17:03:10 INFO  VehicleDAOImpl:109 - INSERT 1833 Object Vehicle
+2019-12-20 17:03:10 INFO  ThreadWriteData:79 - reNameTo: Danh sách phương tiện - Lang Son.xlsx
+2019-12-20 17:03:12 INFO  VehicleExcel:68 - Mo workBook:Danh sách phương tiện - Lao Cai.xlsx
+2019-12-20 17:03:12 INFO  VehicleExcel:70 - da mo thanh cong
+2019-12-20 17:03:12 INFO  LocationDAOImpl:18 - SELECT * FROM location WHERE name = ?
+2019-12-20 17:03:18 INFO  ProviderDAOImpl:25 - SELECT * FROM provider WHERE name = ?
+2019-12-20 17:03:25 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 17:03:28 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 17:03:31 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 17:03:32 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 17:03:32 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 17:03:32 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 17:03:33 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 17:03:35 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 17:03:35 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 17:03:37 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 17:03:37 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 17:03:44 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 17:03:45 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 17:03:45 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 17:03:46 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 17:03:48 INFO  VehicleExcel:85 - close inputStream and workbook
+2019-12-20 17:03:49 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 17:03:49 INFO  VehicleDAOImpl:109 - INSERT 1157 Object Vehicle
+2019-12-20 17:03:49 INFO  ThreadWriteData:79 - reNameTo: Danh sách phương tiện - Lao Cai.xlsx
+2019-12-20 17:03:51 INFO  VehicleExcel:68 - Mo workBook:Danh sách phương tiện - Long An.xlsx
+2019-12-20 17:03:51 INFO  VehicleExcel:70 - da mo thanh cong
+2019-12-20 17:03:51 INFO  LocationDAOImpl:18 - SELECT * FROM location WHERE name = ?
+2019-12-20 17:03:58 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 17:04:01 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 17:04:07 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 17:04:28 INFO  VehicleExcel:85 - close inputStream and workbook
+2019-12-20 17:04:29 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 17:04:29 INFO  VehicleDAOImpl:109 - INSERT 1055 Object Vehicle
+2019-12-20 17:04:29 INFO  ThreadWriteData:79 - reNameTo: Danh sách phương tiện - Long An.xlsx
+2019-12-20 17:04:31 INFO  VehicleExcel:68 - Mo workBook:Danh sách phương tiện - Nam Dinh.xlsx
+2019-12-20 17:04:31 INFO  VehicleExcel:70 - da mo thanh cong
+2019-12-20 17:04:31 INFO  LocationDAOImpl:18 - SELECT * FROM location WHERE name = ?
+2019-12-20 17:04:31 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 17:04:39 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 17:04:46 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 17:04:47 INFO  VehicleExcel:85 - close inputStream and workbook
+2019-12-20 17:04:47 INFO  VehicleDAOImpl:109 - INSERT 2817 Object Vehicle
+2019-12-20 17:04:47 INFO  ThreadWriteData:79 - reNameTo: Danh sách phương tiện - Nam Dinh.xlsx
+2019-12-20 17:04:49 INFO  VehicleExcel:68 - Mo workBook:Danh sách phương tiện - Nghe An.xlsx
+2019-12-20 17:04:50 INFO  VehicleExcel:70 - da mo thanh cong
+2019-12-20 17:04:50 INFO  LocationDAOImpl:18 - SELECT * FROM location WHERE name = ?
+2019-12-20 17:06:08 INFO  VehicleExcel:85 - close inputStream and workbook
+2019-12-20 17:06:09 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 17:06:09 INFO  VehicleDAOImpl:104 - INSERT 5000 Object Vehicle
+2019-12-20 17:06:09 INFO  VehicleDAOImpl:109 - INSERT 3517 Object Vehicle
+2019-12-20 17:06:10 INFO  ThreadWriteData:79 - reNameTo: Danh sách phương tiện - Nghe An.xlsx
+2019-12-20 17:06:12 INFO  VehicleExcel:68 - Mo workBook:Danh sách phương tiện - Ninh Binh.xlsx
+2019-12-20 17:06:12 INFO  VehicleExcel:70 - da mo thanh cong
+2019-12-20 17:06:12 INFO  LocationDAOImpl:18 - SELECT * FROM location WHERE name = ?
+2019-12-20 17:06:13 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 17:06:15 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 17:06:19 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 17:06:21 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 17:06:40 INFO  VehicleExcel:85 - close inputStream and workbook
+2019-12-20 17:06:40 INFO  VehicleDAOImpl:109 - INSERT 4905 Object Vehicle
+2019-12-20 17:06:41 INFO  ThreadWriteData:79 - reNameTo: Danh sách phương tiện - Ninh Binh.xlsx
+2019-12-20 17:06:43 INFO  VehicleExcel:68 - Mo workBook:Danh sách phương tiện - Ninh Thuan.xlsx
+2019-12-20 17:06:43 INFO  VehicleExcel:70 - da mo thanh cong
+2019-12-20 17:06:43 INFO  LocationDAOImpl:18 - SELECT * FROM location WHERE name = ?
+2019-12-20 17:06:51 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 17:06:52 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 17:06:52 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 17:06:52 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 17:06:59 INFO  VehicleExcel:85 - close inputStream and workbook
+2019-12-20 17:06:59 INFO  VehicleDAOImpl:109 - INSERT 2738 Object Vehicle
+2019-12-20 17:07:00 INFO  ThreadWriteData:79 - reNameTo: Danh sách phương tiện - Ninh Thuan.xlsx
+2019-12-20 17:07:02 INFO  VehicleExcel:68 - Mo workBook:Danh sách phương tiện - Phu Tho.xlsx
+2019-12-20 17:07:02 INFO  VehicleExcel:70 - da mo thanh cong
+2019-12-20 17:07:02 INFO  LocationDAOImpl:18 - SELECT * FROM location WHERE name = ?
+2019-12-20 17:07:02 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 17:07:04 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 17:07:09 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 17:07:21 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 17:07:21 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 17:07:22 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 17:07:24 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 17:07:24 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 17:07:25 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 17:07:25 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 17:07:29 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 17:07:30 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 17:07:30 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 17:07:31 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 17:07:31 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 17:07:33 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 17:07:34 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 17:07:34 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
+2019-12-20 17:07:35 INFO  CompanyDAOImpl:32 - INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES(?, ?, ?, ?)
