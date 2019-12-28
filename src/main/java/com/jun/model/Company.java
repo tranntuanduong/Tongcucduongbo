@@ -4,7 +4,7 @@ public class Company {
 	private Integer id;
 	private String name;
 	private String phoneNumber;
-	private String taxNumher;
+	private String taxNumber;
 	private Integer locationId;
 	public Integer getId() {
 		return id;
@@ -25,10 +25,10 @@ public class Company {
 		this.phoneNumber = phoneNumber;
 	}
 	public String getTaxNumber() {
-		return taxNumher;
+		return taxNumber;
 	}
 	public void setTaxNumber(String taxNumher) {
-		this.taxNumher = taxNumher;
+		this.taxNumber = taxNumher;
 	}
 	public Integer getLocationId() {
 		return locationId;

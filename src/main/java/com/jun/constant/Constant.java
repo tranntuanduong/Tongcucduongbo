@@ -1,5 +1,4 @@
 package com.jun.constant;
-
 public class Constant {
 	public static final String[] VEHICLE_FORMAT_FILE = {"STT", "Biển kiểm soát", "Loại hình",
 			 "Đơn vị vận tải", "Đơn vị truyền dữ liệu", "Tải trọng", "Số ghế"};
@@ -18,4 +17,6 @@ public class Constant {
 	
 	public static final String TRANSPORT_UNIT_TITLE = "Danh Sách Đơn Vị Vận Tải";
 	public static final String DATA_TRANSPORT_UNIT_TITLE = "Danh Sách Đơn Vị Truyền Dữ Liệu";
+
+	public  static final Integer LOCATION_NUM = 64;
 }

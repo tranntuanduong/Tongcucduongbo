@@ -58,4 +58,14 @@ public class CompanyService implements ICompanyService {
     public HashMap<String, String> findAllNameAndTaxtNumber() {
         return companyDAO.findAllNameAndTaxNumber();
     }
+
+    @Override
+	public List<Company> findAll() {
+		return companyDAO.findAll();
+	}
+
+	@Override
+	public  List<Company> findByLocationId(Integer locationId) {
+		return companyDAO.findByLocationId(locationId);
+	}
 }

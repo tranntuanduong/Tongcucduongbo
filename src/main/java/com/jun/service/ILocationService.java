@@ -7,9 +7,11 @@ import com.jun.model.Location;
 
 public interface ILocationService {
 	Location findByName(String name);
-	Location findById(Long id);
+	Location findById(Integer id);
 	Long findIdByName(String provincialName);
 	Long save(Location location);
 	void saveList(List<Location> locationList);
 	HashMap<String, Integer> findAllNameAndId();
+	HashMap<Integer, String> findAllIdAndName();
+	List<Location> findAll();
 }

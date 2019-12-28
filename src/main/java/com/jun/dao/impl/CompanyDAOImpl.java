@@ -60,33 +60,34 @@ public class CompanyDAOImpl extends AbstractDAO<Company> implements ICompanyDAO{
 
 	@Override
 	public void saveList(List<Company> companyList) {
-		StringBuilder sql = new StringBuilder("INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES");
-		int count = 0;
-		StringBuilder values = new StringBuilder("");
-		for(Company company : companyList) {
-			if(values.length() > 0) {
-				values.append(",");
+		if (companyList.size() > 0) {
+			StringBuilder sql = new StringBuilder("INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES");
+			int count = 0;
+			StringBuilder values = new StringBuilder("");
+			for(Company company : companyList) {
+				if(values.length() > 0) {
+					values.append(",");
+				}
+				//tranh truong hop 1 truong String nao do bi null
+				String name = company.getName() == null ? null : "'" + company.getName() + "'";
+				String phoneNumber = company.getPhoneNumber() == null ? null : "'" + company.getPhoneNumber() + "'";
+				String taxNumber = company.getTaxNumber() == null ? null : "'" + company.getTaxNumber() + "'";
+				values.append("("+name+","+phoneNumber+","+taxNumber+","+company.getLocationId() +")");
+				count++;
+				if(count >= 2000) {
+					sql.append(values);
+					saveList(sql.toString());
+					sql.setLength(0);
+					values.setLength(0);
+					sql.append("INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES");
+					log.info("INSERT " + count + " Object Company (IN FOR)");
+					count = 0;
+				}
 			}
-			String phoneNumber = company.getPhoneNumber();
-			if(phoneNumber == null) {
-				phoneNumber = " ";
-			}
-			values.append("('"+company.getName()+"','"+phoneNumber+"','"
-			+company.getTaxNumber()+"',"+company.getLocationId() +")");
-			count++;
-			if(count >= 2000) {
-				sql.append(values);
-				saveList(sql.toString());
-				sql.setLength(0);
-				values.setLength(0);
-				sql.append("INSERT INTO company(name, phone_number, taxt_number, location_id) VALUES");
-				log.info("INSERT " + count + " Object Company (IN FOR)");
-				count = 0;
-			}
+			sql.append(values);
+			log.info("INSERT " + count + " Object Company");
+			saveList(sql.toString());
 		}
-		sql.append(values);
-		log.info("INSERT " + count + " Object Company");
-		saveList(sql.toString());
 	}
 
 	@Override
@@ -104,7 +105,20 @@ public class CompanyDAOImpl extends AbstractDAO<Company> implements ICompanyDAO{
 
 	@Override
 	public 	HashMap<String, String> findAllNameAndTaxNumber() {
-		String sql = "SELECT name, taxt_number FROM company";
+		String sql = "SELECT name, taxt_number,location_id FROM company";
 		return findAllNameAndTaxNumber(sql);
+	}
+
+	@Override
+	public List<Company> findAll() {
+		String sql = "SELECT * FROM company";
+		return findByProperty(sql, new CompanyMapper(), null);
+	}
+
+	@Override
+	public List<Company> findByLocationId(Integer locationId) {
+		String sql = "SELECT * FROM company WHERE location_id = ?";
+		log.info(sql);
+		return findByProperty(sql, new CompanyMapper(), locationId);
 	}
 }

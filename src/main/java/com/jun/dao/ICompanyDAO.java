@@ -15,4 +15,6 @@ public interface ICompanyDAO extends GenericDAO<Company>{
 	HashMap<String, String> findAllNameAndId(HashMap<String, String> companyRepeat, int locationId);
 	HashMap<String, String> findAllNameAndTaxNumber();
 	HashMap<String, String> findAllNameRepeat(int locationId);
+    List<Company> findAll();
+    List<Company> findByLocationId(Integer locationId);
 }

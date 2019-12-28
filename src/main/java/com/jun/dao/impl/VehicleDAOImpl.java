@@ -36,17 +36,15 @@ public class VehicleDAOImpl extends AbstractDAO<Vehicle> implements IVehicleDAO 
 
 	@Override
 	public Long update(Vehicle vehicle) {
-//		StringBuilder sql = new StringBuilder("UPDATE vehicle SET ");
-//		sql.append("license_plate=?, seat=?, weight=?, business_type_id=?, provincial_id=?, ");
-//		sql.append("transport_unit_id=?, data_transport_id=? WHERE id = ?");
-//		Long vehicleId = save(sql.toString(), vehicle.getLicensePlate(),
-//				vehicle.getSeat(), vehicle.getWeight(), vehicle.getBusinessType().getId(),
-//				vehicle.getProvincial().getId(), vehicle.getTransportUnit().getId(),
-//				vehicle.getDataTransport().getId(), vehicle.getId());
-//		
-//		log.info(sql);
-//		return vehicleId;
-		return null;
+
+		StringBuilder sql = new StringBuilder("UPDATE vehicle SET ");
+		sql.append("license_plate=?, weight=?, person_carried_number=?, company_id=?, transportation_id=?,provider_id=?, unknown=? ");
+		sql.append("WHERE id = ?");
+		Long vehicleId = save(sql.toString(), vehicle.getLicensePlate(), vehicle.getWeight(),
+				vehicle.getPersonCarriedNumber(), vehicle.getCompanyId(), vehicle.getTransportationId(),
+				vehicle.getProviderId(), vehicle.getUnKnown(), vehicle.getId());
+		log.info(sql);
+		return vehicleId;
 	}
 
 	@Override

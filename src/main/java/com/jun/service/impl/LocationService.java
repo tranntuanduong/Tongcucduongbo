@@ -23,7 +23,7 @@ public class LocationService implements ILocationService {
 	}
 
 	@Override
-	public Location findById(Long id) {
+	public Location findById(Integer id) {
 		return locationDAO.findById(id);
 	}
 
@@ -47,5 +47,15 @@ public class LocationService implements ILocationService {
 	@Override
 	public HashMap<String, Integer> findAllNameAndId() {
 		return locationDAO.findAllNameAndId();
+	}
+
+	@Override
+	public HashMap<Integer, String> findAllIdAndName() {
+		return locationDAO.findAllIdAndName();
+	}
+
+	@Override
+	public 	List<Location> findAll() {
+		return locationDAO.findAll();
 	}
 }

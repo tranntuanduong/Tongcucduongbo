@@ -12,6 +12,7 @@ public interface GenericDAO<T> {
 	void saveList(String sql);
 	List<String> findAllString(String sql);
 	HashMap<String, Integer> findAllNameAndId(String sql);
+	HashMap<Integer, String> findAllIdAndName(String sql);
 	HashMap<String, String> findAllNameAndId(String sql, HashMap<String, String> companyRepeat, int locationId);
 	HashMap<String, String> findAllStringByProperty(String sql, Object param);
 	HashMap<String, String> findAllNameAndTaxNumber(String sql);

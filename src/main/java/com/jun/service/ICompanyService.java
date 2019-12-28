@@ -14,4 +14,6 @@ public interface ICompanyService {
 	Integer save(Company newCompany);
 	HashMap<String, String> findAllNameAndId(int locationId);
 	HashMap<String, String> findAllNameAndTaxtNumber();
+    List<Company> findAll();
+    List<Company> findByLocationId(Integer locationId);
 }

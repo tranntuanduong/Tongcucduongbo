@@ -6,7 +6,7 @@ import com.jun.model.Transportation;
 
 public interface ITransportationDAO extends GenericDAO<Transportation> {
 
-	Integer save(Transportation transpotation);
+	Integer save(Transportation transportation);
 
 	Transportation findByName(String name);
 

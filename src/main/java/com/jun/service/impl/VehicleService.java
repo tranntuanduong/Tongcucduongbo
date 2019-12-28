@@ -1,5 +1,6 @@
 package com.jun.service.impl;
 
+import java.util.ArrayList;
 import java.util.List;
 
 import com.jun.dao.IVehicleDAO;
@@ -29,14 +30,15 @@ public class VehicleService  implements IVehicleService {
 
 	@Override
 	public void saveList(List<Vehicle> vehicleList) {
-//		for(Vehicle vehicle : vehicleList) {
-//			if(vehicle.getId() == null) {
-//				vehicleDAO.save(vehicle);
-//			} else {			
-//				 vehicleDAO.update(vehicle);
-//			}
-//		}
-		vehicleDAO.saveList(vehicleList);
+		ArrayList<Vehicle> newVehicleList = new ArrayList<>();
+		for(Vehicle vehicle : vehicleList) {
+			if(vehicle.getId() == null) {
+				newVehicleList.add(vehicle);
+			} else {
+				 vehicleDAO.update(vehicle);
+			}
+		}
+		vehicleDAO.saveList(newVehicleList);
 	}
 
 

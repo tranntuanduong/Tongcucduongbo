@@ -19,11 +19,11 @@ public class LocationDAOImpl extends AbstractDAO<Location> implements ILocationD
 		return provincials.isEmpty() ? null : provincials.get(0);
 	}
 	@Override
-	public Location findById(Long id) {
-		String sql = "SELECT * FROM provincial WHERE id = ?";
-		List<Location> provincials = findByProperty(sql, new LocationMapper(), id);
+	public Location findById(Integer id) {
+		String sql = "SELECT * FROM location WHERE id = ?";
+		List<Location> locationList = findByProperty(sql, new LocationMapper(), id);
 		log.info(sql);
-		return provincials.isEmpty() ? null : provincials.get(0);
+		return locationList.isEmpty() ? null : locationList.get(0);
 	}
 //	@Override
 //	public Long findIdByName(String name) {
@@ -53,5 +53,19 @@ public class LocationDAOImpl extends AbstractDAO<Location> implements ILocationD
 		String sql = "SELECT * FROM location";
 		log.info(sql);
 		return findAllNameAndId(sql);
+	}
+
+	@Override
+	public HashMap<Integer, String> findAllIdAndName() {
+		String sql = "SELECT * FROM location";
+		log.info(sql);
+		return findAllIdAndName(sql);
+	}
+
+	@Override
+	public List<Location> findAll() {
+		String sql = "SELECT * FROM location";
+		log.info(sql);
+		return findByProperty(sql, new LocationMapper(), null);
 	}
 }

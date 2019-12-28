@@ -18,11 +18,11 @@ import com.jun.mapper.RowMapper;
 
 public class AbstractDAO<T> implements GenericDAO<T> {
 
-    ResourceBundle resourceBundle = ResourceBundle.getBundle("db");
+    private ResourceBundle resourceBundle = ResourceBundle.getBundle("db");
 
     private static final Logger log = Logger.getLogger(AbstractDAO.class);
 
-    public synchronized Connection getConnection() {
+    private synchronized Connection getConnection() {
         try {
             Class.forName(resourceBundle.getString("driverName"));
             String url = resourceBundle.getString("url");
@@ -231,9 +231,44 @@ public class AbstractDAO<T> implements GenericDAO<T> {
     }
 
     @Override
+    public HashMap<Integer, String> findAllIdAndName(String sql) {
+        HashMap<Integer, String> results = new HashMap<>();
+        Connection connection = null;
+        PreparedStatement ptmt = null;
+        ResultSet resultSet = null;
+        try {
+            connection = getConnection();
+            ptmt = connection.prepareStatement(sql);
+            resultSet = ptmt.executeQuery();
+            while (resultSet.next()) {
+                results.put(resultSet.getInt("id"), resultSet.getString("name"));
+            }
+            return results;
+        } catch (SQLException e) {
+            log.info(e.getMessage());
+            return null;
+        } finally {
+            try {
+                if (connection != null) {
+                    connection.close();
+                }
+                if (ptmt != null) {
+                    ptmt.close();
+                }
+                if (resultSet != null) {
+                    resultSet.close();
+                }
+            } catch (SQLException e) {
+                log.info(e.getMessage());
+                return null;
+            }
+        }
+    }
+
+    @Override
     public HashMap<String, String> findAllNameAndId(
             String sql, HashMap<String, String> companyRepeat, int locationId) {
-        HashMap<String, String> results = new HashMap<String, String>();
+        HashMap<String, String> results = new HashMap<>();
         Connection connection = null;
         PreparedStatement ptmt = null;
         ResultSet resultSet = null;
@@ -320,7 +355,18 @@ public class AbstractDAO<T> implements GenericDAO<T> {
             ptmt = connection.prepareStatement(sql);
             resultSet = ptmt.executeQuery();
             while (resultSet.next()) {
-                results.put(resultSet.getString("name"), resultSet.getString("id") + "");
+                //pha vo quy tac ti code cho de
+                String key = resultSet.getString("name") + "-LocationId" + resultSet.getInt("location_id");
+                String value = results.get(key);
+                String taxtNumber1 = resultSet.getString("taxt_number") == null ? "" : resultSet.getString("taxt_number");
+                String taxtNumber2 = value == null ? "" : value;
+                if (!taxtNumber2.contains(taxtNumber1)) {
+                    if (!taxtNumber2.equals("")) {
+                        taxtNumber2 = "," + taxtNumber2;
+                    }
+                    taxtNumber2 = taxtNumber1 + taxtNumber2;
+                }
+                results.put(key, taxtNumber2);
             }
             return results;
         } catch (SQLException e) {
